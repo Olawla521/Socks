@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    line-height: 1.9;
+}
+
+.logo{
+    margin-left: 500px;
+}
+
+.section-1{
+    margin: 50px;
+}
+.section-2{
+    margin: 50px;
+}
+
+ .line{
+    margin-left: 50px;
+    color: #b5b6b8;
+    text-decoration: line-through;
+}
+
+h3{
+    color: #ea9940;
+}
+
+button{
+    background-color: black;
+    color: #fff;
+    padding: 0 20px;
+}
+
+.sec1{
+    background-color: #f8f9fd;
+    padding: 20px;
+}
+
+.sec2{
+    padding: 20px;
+}
+
+.flex{
+    display: flex;
+}
